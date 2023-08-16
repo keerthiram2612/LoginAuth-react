@@ -11,7 +11,7 @@ export default function Login() {
         <i class="fa-solid fa-user fa-2xl"></i><input type="text" placeholder='Enter your username' /><br/>
         <i class="fa-solid fa-lock fa-2xl"></i><input type="text" placeholder='Enter password' /><br/>
          <button className='btn'>Login</button><p>Or</p><br/>
-         <button className='btn'>Forgot Password</button>
+         <button className='btn1'>Forgot Password</button>
       </div>
     </div>
     </>
